@@ -1,6 +1,6 @@
 # Conversor-de-Moedas
 Conversor de moedas que utiliza uma API externa para pegar os valores das moedas em tempo real, também possui conversão entre medidas de temperatura. 
-Codigo todo feito em java e possui um javadocs onde é possivel ter uma visão mais ampla de todo o projeto.
+Codigo todo feito em java e possui um javadocs onde é possivel ter uma visão mais ampla de todo o projeto. Para acessar o javadocs basta ir no folder docs e buscar o arquivo "index.html"
 
 Para executa-lo basta baixar o arquivo "conversor.jar" ou você pode baixar todos os arquivos e executa-lo atraves de sua IDE.
 
